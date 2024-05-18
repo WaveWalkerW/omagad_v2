@@ -1,0 +1,9 @@
+#goal {
+    position: fixed;
+    margin-top: 10%;
+    margin-left: 70%;
+    transition: 2s ease;
+    img {
+        height: 900px;
+    }
+}

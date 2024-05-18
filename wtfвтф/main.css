@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+}
+
+#amin {
+    position: fixed;
+    opacity: 0;
+    transition: 2s ease;
+    label {
+        position: fixed;
+        font-size: 50pt;
+        margin-top: 20%;
+        margin-left: -15%;
+    }
+}
+
+
+#rotates {
+    position: fixed;
+    font-size: 30pt;
+    margin-top: 40%;
+}

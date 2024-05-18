@@ -1,0 +1,59 @@
+#daur {
+    position: fixed;
+    transition: 2s ease;
+    label {
+        position: fixed;
+        align-content: center;
+        text-align: center;
+        margin: 30% 0% 0% 15%;
+        border-radius: 20px 20px 0px 20px;
+        height: 40px;
+        width: 200px;
+        background-color: lightskyblue;
+        transition: 2s ease;
+        opacity: 0;
+    }
+} 
+
+#telo {
+    position: fixed;
+    margin-top: 25%;
+    margin-left: 23%;
+    height: 500px;
+    transition: 2s ease;
+}
+
+#nach {
+    position: fixed;
+    margin-top: 36%;
+    margin-left: 25.5%;
+    height: 30px;
+    transition: 2s ease;
+}
+
+#ruka {
+    position: fixed;
+    margin: 37.4% 0% 0% 25.6%;
+    height: 90px;
+    transition: 2s ease;
+}
+
+#ruka_2, #nach_2 {
+    position: fixed;
+    transition: 2s ease;
+}
+
+#nach_2 {
+    margin-top: 36.6%;
+    margin-left: 28.8%;
+    height: 30px;
+    rotate: -30deg;
+    transition: 2s ease;
+}
+
+#ruka_2 {
+    margin: 37.5% 0% 0% 30.3%;
+    height: 90px;
+    rotate: -30deg;
+    transition: 2s ease;
+}

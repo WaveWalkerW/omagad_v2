@@ -1,0 +1,23 @@
+#anel {
+    position: fixed;
+    margin: 34% 0% 0% 30%;
+    transition: 2s ease;
+    img {
+        position: fixed;
+        height: 300px;
+    }
+    label {
+        margin-top: -2%;
+        margin-left: -2%;
+        text-align: center;
+        align-content: center;
+        border-radius: 20px 20px 20px 0px;
+        width: 70px;
+        height: 30px;
+        position: fixed;
+        background-color: lightskyblue;
+        opacity: 0;
+        transition: 2s ease;
+    }
+
+}
